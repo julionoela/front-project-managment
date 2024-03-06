@@ -1,0 +1,12 @@
+.btn-blue {
+    background-color: royalblue;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.display-none {
+    display: none!important;
+}
